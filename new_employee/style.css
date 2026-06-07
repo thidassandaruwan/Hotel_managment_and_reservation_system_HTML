@@ -4,6 +4,10 @@ body{
     background-color: #f2f2f2;
 }
 
+#newFormHtmlBody{
+    background-color: #f2f2f2;
+}
+
 body{
     display: flex;
     flex-direction: column;
