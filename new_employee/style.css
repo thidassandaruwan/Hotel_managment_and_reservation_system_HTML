@@ -1,3 +1,9 @@
+html,
+body{
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
 body{
     display: flex;
     flex-direction: column;
